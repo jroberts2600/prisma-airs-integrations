@@ -38,6 +38,10 @@ This repository collects example configurations, sample code, and reference patt
 | [n8n](./n8n/) | Workflow Automation | ✅ | ✅ | ❌ | ❌ | ❌ |
 | [Portkey](./Portkey/) | AI Gateway | ✅ | ✅ | ❌ | ❌ | ❌ |
 | [TrueFoundry](./TrueFoundry/) | AI Gateway | ✅ | ✅ | ⚠️ | ❌ | ❌ |
+| [AWS (Lambda Decorator)](./AWS/lambda-decorator/) | Serverless Compute | ✅ | ✅ | ❌ | ❌ | ❌ |
+| [AWS (Bedrock SDK Hooks — Python · Node.js · Java · Go)](./AWS/bedrock-sdk-hooks/) | AI SDK | ✅ | ✅ | ⚠️ | ❌ | ❌ |
+| [AWS (Bedrock AgentCore)](./AWS/bedrock-agentcore/) | Agent Runtime | ✅ | ✅ | ⚠️ | ✅ | ✅ |
+| [AWS (Strands Agents)](./AWS/strands-agents/) | Agent Framework | ✅ | ⚠️ | ⚠️ | ✅ | ✅ |
 | [GitHub (Actions)](./GitHub/github-actions/) | CI/CD Pipeline | N/A | N/A | N/A | N/A | N/A |
 | [Jenkins (Pipeline)](./Jenkins/declarative-pipeline/) | CI/CD Pipeline | N/A | N/A | N/A | N/A | N/A |
 
